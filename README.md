@@ -14,3 +14,7 @@ create a .ts file, and by running *tsc index.ts* in the command line, it creates
 In the command line we can run *node index.js* and we see our first todo.
 
 We can combine these steps by running *ts-node index.ts*.
+
+
+## Writing out Typescript
+**Interfaces** in typescript are used to define the structure of an object.
