@@ -9,3 +9,8 @@ The Typescript Type System:
 - uses 'type annotations' to analyze our code
 - only active during development
 - doesn't provide any performance optimization
+
+create a .ts file, and by running *tsc index.ts* in the command line, it creates index.js 
+In the command line we can run *node index.js* and we see our first todo.
+
+We can combine these steps by running *ts-node index.ts*.
